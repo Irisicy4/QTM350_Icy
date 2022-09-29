@@ -1,0 +1,645 @@
+,country,year,billion_age,billion_num,billion_rate_perM,gdp_percapita,poor10,rich10,pop,pov_320,pov_550,pop2,name,World bank region
+0,Angola,2003,0.0,0,0.0,2900.0,,,18.8M,,,18800000.0,Angola,Sub-Saharan Africa
+1,Angola,2004,0.0,0,0.0,3220.0,,,19.4M,,,19400000.0,Angola,Sub-Saharan Africa
+2,Angola,2005,0.0,0,0.0,3460.0,,,20.1M,,,20100000.0,Angola,Sub-Saharan Africa
+3,Angola,2006,0.0,0,0.0,3810.0,,,20.9M,,,20900000.0,Angola,Sub-Saharan Africa
+4,Albania,2003,0.0,0,0.0,2520.0,,,3.1M,,,3100000.0,Albania,Europe & Central Asia
+5,Albania,2004,0.0,0,0.0,2680.0,3.5,24.3,3.09M,8.7,38.5,3090000.0,Albania,Europe & Central Asia
+6,Albania,2005,0.0,0,0.0,2850.0,,,3.06M,,,3060000.0,Albania,Europe & Central Asia
+7,Albania,2006,0.0,0,0.0,3040.0,,,3.03M,,,3030000.0,Albania,Europe & Central Asia
+8,United Arab Emirates,2003,50.0,2,0.792,57900.0,,,4.07M,,,4070000.000000001,United Arab Emirates,Middle East & North Africa
+9,United Arab Emirates,2004,51.0,2,0.78,53800.0,,,4.59M,,,4590000.0,United Arab Emirates,Middle East & North Africa
+10,United Arab Emirates,2005,62.5,5,1.92,51200.0,,,5.3M,,,5300000.0,United Arab Emirates,Middle East & North Africa
+11,United Arab Emirates,2006,61.3,5,1.89,45400.0,,,6.17M,,,6170000.0,United Arab Emirates,Middle East & North Africa
+12,Argentina,2003,69.0,1,0.0255,10400.0,1.2,35.2,38.5M,13.9,29.2,38500000.0,Argentina,Latin America & Caribbean
+13,Argentina,2004,70.0,1,0.0253,11200.0,1.3,34.9,38.9M,11.2,25.0,38900000.0,Argentina,Latin America & Caribbean
+14,Argentina,2005,71.0,1,0.025,12000.0,1.3,33.7,39.3M,8.8,20.3,39300000.0,Argentina,Latin America & Caribbean
+15,Argentina,2006,72.0,1,0.0248,12900.0,1.4,33.7,39.7M,7.2,19.2,39700000.0,Argentina,Latin America & Caribbean
+16,Armenia,2003,0.0,0,0.0,2060.0,3.1,31.7,3M,29.0,68.1,3000000.0,Armenia,Europe & Central Asia
+17,Armenia,2004,0.0,0,0.0,2360.0,3.3,30.8,2.98M,19.5,61.3,2980000.0,Armenia,Europe & Central Asia
+18,Armenia,2005,0.0,0,0.0,2700.0,3.7,24.5,2.96M,15.5,55.9,2960000.0,Armenia,Europe & Central Asia
+19,Armenia,2006,0.0,0,0.0,3090.0,3.5,25.1,2.93M,13.8,48.4,2930000.0,Armenia,Europe & Central Asia
+20,Australia,2003,69.6,5,0.251,49400.0,3.0,25.3,19.9M,0.7,1.0,19900000.0,Australia,East Asia & Pacific
+21,Australia,2004,69.3,6,0.299,50300.0,,,20.2M,,,20200000.0,Australia,East Asia & Pacific
+22,Australia,2005,62.1,7,0.345,50900.0,,,20.5M,,,20500000.0,Australia,East Asia & Pacific
+23,Australia,2006,64.1,12,0.587,52500.0,,,20.9M,,,20900000.0,Australia,East Asia & Pacific
+24,Austria,2003,69.3,3,0.367,40700.0,3.4,23.8,8.22M,0.1,0.3,8220000.000000001,Austria,Europe & Central Asia
+25,Austria,2004,73.8,4,0.489,41300.0,3.5,22.8,8.25M,0.2,0.4,8250000.0,Austria,Europe & Central Asia
+26,Austria,2005,71.3,3,0.366,42500.0,3.4,23.7,8.29M,0.2,0.4,8289999.999999999,Austria,Europe & Central Asia
+27,Austria,2006,72.3,3,0.366,43900.0,3.1,23.8,8.31M,0.6,0.7,8310000.000000001,Austria,Europe & Central Asia
+28,Azerbaijan,2003,0.0,0,0.0,2080.0,4.8,24.4,8.45M,0.2,13.9,8450000.0,Azerbaijan,Europe & Central Asia
+29,Azerbaijan,2004,0.0,0,0.0,2630.0,4.8,24.2,8.54M,0.0,7.0,8540000.0,Azerbaijan,Europe & Central Asia
+30,Azerbaijan,2005,0.0,0,0.0,3500.0,,,8.63M,,,8630000.0,Azerbaijan,Europe & Central Asia
+31,Azerbaijan,2006,0.0,0,0.0,4330.0,,,8.72M,,,8720000.0,Azerbaijan,Europe & Central Asia
+32,Burundi,2003,0.0,0,0.0,303.0,,,7.13M,,,7130000.0,Burundi,Sub-Saharan Africa
+33,Burundi,2004,0.0,0,0.0,296.0,,,7.36M,,,7360000.0,Burundi,Sub-Saharan Africa
+34,Burundi,2005,0.0,0,0.0,302.0,4.0,28.0,7.61M,93.1,98.4,7610000.0,Burundi,Sub-Saharan Africa
+35,Burundi,2006,0.0,0,0.0,302.0,,,7.86M,,,7860000.0,Burundi,Sub-Saharan Africa
+36,Belgium,2003,78.0,1,0.0966,37800.0,3.4,25.1,10.5M,0.1,0.2,10500000.0,Belgium,Europe & Central Asia
+37,Belgium,2004,79.0,1,0.0965,38400.0,3.4,23.9,10.5M,0.3,0.5,10500000.0,Belgium,Europe & Central Asia
+38,Belgium,2005,66.5,2,0.193,39100.0,3.4,22.4,10.6M,0.2,0.4,10600000.0,Belgium,Europe & Central Asia
+39,Belgium,2006,67.5,2,0.193,40300.0,3.4,23.5,10.7M,0.2,0.3,10700000.0,Belgium,Europe & Central Asia
+40,Benin,2003,0.0,0,0.0,956.0,,,7.75M,,,7750000.0,Benin,Sub-Saharan Africa
+41,Benin,2004,0.0,0,0.0,944.0,,,7.98M,,,7980000.0,Benin,Sub-Saharan Africa
+42,Benin,2005,0.0,0,0.0,953.0,,,8.22M,,,8220000.000000001,Benin,Sub-Saharan Africa
+43,Benin,2006,0.0,0,0.0,981.0,,,8.45M,,,8450000.0,Benin,Sub-Saharan Africa
+44,Burkina Faso,2003,0.0,0,0.0,491.0,,,13M,,,13000000.0,Burkina Faso,Sub-Saharan Africa
+45,Burkina Faso,2004,0.0,0,0.0,518.0,,,13.4M,,,13400000.0,Burkina Faso,Sub-Saharan Africa
+46,Burkina Faso,2005,0.0,0,0.0,534.0,,,13.8M,,,13800000.0,Burkina Faso,Sub-Saharan Africa
+47,Burkina Faso,2006,0.0,0,0.0,540.0,,,14.3M,,,14300000.0,Burkina Faso,Sub-Saharan Africa
+48,Bangladesh,2003,0.0,0,0.0,733.0,,,137M,,,137000000.0,Bangladesh,South Asia
+49,Bangladesh,2004,0.0,0,0.0,769.0,3.8,28.0,139M,65.8,89.2,139000000.0,Bangladesh,South Asia
+50,Bangladesh,2005,0.0,0,0.0,809.0,,,141M,,,141000000.0,Bangladesh,South Asia
+51,Bangladesh,2006,0.0,0,0.0,856.0,,,143M,,,143000000.0,Bangladesh,South Asia
+52,Bulgaria,2003,0.0,0,0.0,4850.0,,,7.74M,,,7740000.0,Bulgaria,Europe & Central Asia
+53,Bulgaria,2004,0.0,0,0.0,5230.0,,,7.69M,,,7690000.0,Bulgaria,Europe & Central Asia
+54,Bulgaria,2005,0.0,0,0.0,5630.0,1.6,26.6,7.63M,11.0,24.0,7630000.0,Bulgaria,Europe & Central Asia
+55,Bulgaria,2006,0.0,0,0.0,6040.0,2.2,27.9,7.58M,4.8,12.2,7580000.0,Bulgaria,Europe & Central Asia
+56,Bosnia and Herzegovina,2003,0.0,0,0.0,3370.0,2.9,26.4,3.76M,0.6,4.0,3760000.0,Bosnia and Herzegovina,Europe & Central Asia
+57,Bosnia and Herzegovina,2004,0.0,0,0.0,3500.0,,,3.77M,,,3770000.0,Bosnia and Herzegovina,Europe & Central Asia
+58,Bosnia and Herzegovina,2005,0.0,0,0.0,3690.0,,,3.77M,,,3770000.0,Bosnia and Herzegovina,Europe & Central Asia
+59,Bosnia and Herzegovina,2006,0.0,0,0.0,3910.0,3.0,25.1,3.76M,0.4,2.8,3760000.0,Bosnia and Herzegovina,Europe & Central Asia
+60,Belarus,2003,0.0,0,0.0,3520.0,3.8,21.4,9.62M,4.7,27.4,9620000.0,Belarus,Europe & Central Asia
+61,Belarus,2004,0.0,0,0.0,3880.0,3.6,21.8,9.56M,2.7,17.1,9560000.0,Belarus,Europe & Central Asia
+62,Belarus,2005,0.0,0,0.0,4290.0,3.6,22.4,9.52M,1.2,11.7,9520000.0,Belarus,Europe & Central Asia
+63,Belarus,2006,0.0,0,0.0,4680.0,3.5,23.6,9.48M,1.1,7.6,9480000.0,Belarus,Europe & Central Asia
+64,Belize,2003,0.0,0,0.0,4810.0,,,277k,,,277000.0,Belize,Latin America & Caribbean
+65,Belize,2004,0.0,0,0.0,4770.0,,,284k,,,284000.0,Belize,Latin America & Caribbean
+66,Belize,2005,0.0,0,0.0,4870.0,,,291k,,,291000.0,Belize,Latin America & Caribbean
+67,Belize,2006,0.0,0,0.0,4770.0,,,299k,,,299000.0,Belize,Latin America & Caribbean
+68,Bolivia,2003,0.0,0,0.0,2130.0,0.9,43.9,9.07M,28.9,52.8,9070000.0,Bolivia,Latin America & Caribbean
+69,Bolivia,2004,0.0,0,0.0,2190.0,0.5,45.3,9.23M,32.0,51.9,9230000.0,Bolivia,Latin America & Caribbean
+70,Bolivia,2005,0.0,0,0.0,2250.0,0.6,43.6,9.4M,28.5,47.9,9400000.0,Bolivia,Latin America & Caribbean
+71,Bolivia,2006,0.0,0,0.0,2310.0,0.8,41.9,9.56M,26.3,46.3,9560000.0,Bolivia,Latin America & Caribbean
+72,Brazil,2003,70.5,6,0.0326,7210.0,0.9,44.5,184M,21.4,40.1,184000000.0,Brazil,Latin America & Caribbean
+73,Brazil,2004,67.7,8,0.043,7350.0,1.0,44.6,186M,19.6,37.9,186000000.0,Brazil,Latin America & Caribbean
+74,Brazil,2005,58.0,16,0.0851,7560.0,1.0,44.1,188M,17.0,34.0,188000000.0,Brazil,Latin America & Caribbean
+75,Brazil,2006,59.4,20,0.105,7940.0,1.0,43.2,190M,15.6,31.9,190000000.0,Brazil,Latin America & Caribbean
+76,Bhutan,2003,0.0,0,0.0,1410.0,,,639k,,,639000.0,Bhutan,South Asia
+77,Bhutan,2004,0.0,0,0.0,1490.0,,,649k,,,649000.0,Bhutan,South Asia
+78,Bhutan,2005,0.0,0,0.0,1570.0,,,657k,,,657000.0,Bhutan,South Asia
+79,Bhutan,2006,0.0,0,0.0,1840.0,2.7,29.4,665k,30.6,61.6,665000.0,Bhutan,South Asia
+80,Botswana,2003,0.0,0,0.0,4860.0,,,1.77M,,,1770000.0,Botswana,Sub-Saharan Africa
+81,Botswana,2004,0.0,0,0.0,4990.0,,,1.8M,,,1800000.0,Botswana,Sub-Saharan Africa
+82,Botswana,2005,0.0,0,0.0,5290.0,,,1.84M,,,1840000.0,Botswana,Sub-Saharan Africa
+83,Botswana,2006,0.0,0,0.0,5610.0,,,1.88M,,,1880000.0,Botswana,Sub-Saharan Africa
+84,Central African Republic,2003,0.0,0,0.0,459.0,,,3.96M,,,3960000.0,Central African Republic,Sub-Saharan Africa
+85,Central African Republic,2004,0.0,0,0.0,455.0,,,4.04M,,,4040000.0,Central African Republic,Sub-Saharan Africa
+86,Central African Republic,2005,0.0,0,0.0,467.0,,,4.12M,,,4120000.0,Central African Republic,Sub-Saharan Africa
+87,Central African Republic,2006,0.0,0,0.0,479.0,,,4.2M,,,4200000.0,Central African Republic,Sub-Saharan Africa
+88,Canada,2003,65.5,17,0.523,37100.0,2.6,25.6,31.8M,0.2,0.7,31800000.0,Canada,North America
+89,Canada,2004,63.9,17,0.518,38600.0,,,32.2M,,,32200000.000000004,Canada,North America
+90,Canada,2005,62.9,22,0.665,39800.0,,,32.5M,,,32500000.0,Canada,North America
+91,Canada,2006,61.1,23,0.689,42100.0,2.7,26.0,32.9M,0.2,0.5,32900000.0,Canada,North America
+92,Switzerland,2003,66.0,7,0.94,75100.0,,,7.32M,,,7320000.0,Switzerland,Europe & Central Asia
+93,Switzerland,2004,67.0,8,1.07,76800.0,,,7.39M,,,7390000.0,Switzerland,Europe & Central Asia
+94,Switzerland,2005,63.9,8,1.06,79400.0,2.9,26.0,7.46M,0.1,0.3,7460000.0,Switzerland,Europe & Central Asia
+95,Switzerland,2006,64.9,8,1.06,81800.0,2.9,26.7,7.54M,0.1,0.3,7540000.0,Switzerland,Europe & Central Asia
+96,Chile,2003,75.0,3,0.19,9890.0,,,16M,,,16000000.0,Chile,Latin America & Caribbean
+97,Chile,2004,76.0,3,0.188,10300.0,,,16.2M,,,16200000.0,Chile,Latin America & Caribbean
+98,Chile,2005,76.0,2,0.124,10900.0,1.9,37.9,16.4M,5.4,19.2,16399999.999999998,Chile,Latin America & Caribbean
+99,Chile,2006,70.3,3,0.184,11300.0,,,16.5M,,,16500000.0,Chile,Latin America & Caribbean
+100,China,2003,62.0,1,0.00077,3060.0,,,1.32B,,,1320000000.0,China,East Asia & Pacific
+101,China,2004,49.0,2,0.00153,3390.0,2.4,30.9,1.33B,43.2,70.5,1330000000.0,China,East Asia & Pacific
+102,China,2005,47.5,8,0.0061,3800.0,,,1.34B,,,1340000000.0,China,East Asia & Pacific
+103,China,2006,48.9,20,0.0152,4320.0,,,1.35B,,,1350000000.0,China,East Asia & Pacific
+104,Cote d'Ivoire,2003,0.0,0,0.0,1580.0,,,18M,,,18000000.0,Cote d'Ivoire,Sub-Saharan Africa
+105,Cote d'Ivoire,2004,0.0,0,0.0,1570.0,,,18.4M,,,18400000.0,Cote d'Ivoire,Sub-Saharan Africa
+106,Cote d'Ivoire,2005,0.0,0,0.0,1580.0,,,18.8M,,,18800000.0,Cote d'Ivoire,Sub-Saharan Africa
+107,Cote d'Ivoire,2006,0.0,0,0.0,1560.0,,,19.2M,,,19200000.0,Cote d'Ivoire,Sub-Saharan Africa
+108,Cameroon,2003,0.0,0,0.0,1220.0,,,17.3M,,,17300000.0,Cameroon,Sub-Saharan Africa
+109,Cameroon,2004,0.0,0,0.0,1220.0,,,17.7M,,,17700000.0,Cameroon,Sub-Saharan Africa
+110,Cameroon,2005,0.0,0,0.0,1230.0,,,18.2M,,,18200000.0,Cameroon,Sub-Saharan Africa
+111,Cameroon,2006,0.0,0,0.0,1250.0,2.5,33.0,18.7M,58.4,81.4,18700000.0,Cameroon,Sub-Saharan Africa
+112,"Congo, Dem. Rep.",2003,0.0,0,0.0,354.0,2.2,32.4,53.1M,98.5,99.7,53100000.0,"Congo, Dem. Rep.",Sub-Saharan Africa
+113,"Congo, Dem. Rep.",2004,0.0,0,0.0,364.0,,,54.8M,,,54800000.0,"Congo, Dem. Rep.",Sub-Saharan Africa
+114,"Congo, Dem. Rep.",2005,0.0,0,0.0,371.0,,,56.6M,,,56600000.0,"Congo, Dem. Rep.",Sub-Saharan Africa
+115,"Congo, Dem. Rep.",2006,0.0,0,0.0,381.0,,,58.5M,,,58500000.0,"Congo, Dem. Rep.",Sub-Saharan Africa
+116,"Congo, Rep.",2003,0.0,0,0.0,2080.0,,,3.51M,,,3510000.0,"Congo, Rep.",Sub-Saharan Africa
+117,"Congo, Rep.",2004,0.0,0,0.0,2170.0,2.0,36.9,3.62M,76.2,90.1,3620000.0,"Congo, Rep.",Sub-Saharan Africa
+118,"Congo, Rep.",2005,0.0,0,0.0,2270.0,,,3.75M,,,3750000.0,"Congo, Rep.",Sub-Saharan Africa
+119,"Congo, Rep.",2006,0.0,0,0.0,2050.0,,,3.88M,,,3880000.0,"Congo, Rep.",Sub-Saharan Africa
+120,Colombia,2003,75.5,2,0.0473,4260.0,1.2,44.5,42.1M,26.9,51.4,42100000.0,Colombia,Latin America & Caribbean
+121,Colombia,2004,76.5,2,0.0466,4400.0,1.2,43.2,42.6M,23.9,47.5,42600000.0,Colombia,Latin America & Caribbean
+122,Colombia,2005,77.5,2,0.0459,4640.0,,,43.2M,,,43200000.0,Colombia,Latin America & Caribbean
+123,Colombia,2006,78.5,2,0.0452,4890.0,,,43.7M,,,43700000.0,Colombia,Latin America & Caribbean
+124,Comoros,2003,0.0,0,0.0,1180.0,1.5,48.1,597k,37.4,64.6,597000.0,Comoros,Sub-Saharan Africa
+125,Comoros,2004,0.0,0,0.0,1180.0,,,612k,,,612000.0,Comoros,Sub-Saharan Africa
+126,Comoros,2005,0.0,0,0.0,1180.0,,,626k,,,626000.0,Comoros,Sub-Saharan Africa
+127,Comoros,2006,0.0,0,0.0,1170.0,,,642k,,,642000.0,Comoros,Sub-Saharan Africa
+128,Cape Verde,2003,0.0,0,0.0,2290.0,,,457k,,,457000.0,Cape Verde,Sub-Saharan Africa
+129,Cape Verde,2004,0.0,0,0.0,2410.0,,,463k,,,463000.0,Cape Verde,Sub-Saharan Africa
+130,Cape Verde,2005,0.0,0,0.0,2570.0,,,469k,,,469000.0,Cape Verde,Sub-Saharan Africa
+131,Cape Verde,2006,0.0,0,0.0,2920.0,2.0,37.1,475k,26.9,53.7,475000.0,Cape Verde,Sub-Saharan Africa
+132,Costa Rica,2003,0.0,0,0.0,8400.0,1.3,36.6,4.23M,9.4,23.2,4230000.0,Costa Rica,Latin America & Caribbean
+133,Costa Rica,2004,0.0,0,0.0,8610.0,1.4,35.9,4.29M,8.0,21.0,4290000.0,Costa Rica,Latin America & Caribbean
+134,Costa Rica,2005,0.0,0,0.0,9110.0,1.4,38.3,4.35M,7.9,20.5,4350000.0,Costa Rica,Latin America & Caribbean
+135,Costa Rica,2006,0.0,0,0.0,9730.0,1.5,38.9,4.4M,5.4,16.3,4400000.0,Costa Rica,Latin America & Caribbean
+136,Cyprus,2003,0.0,0,0.0,24800.0,3.6,24.3,1.01M,0.1,0.2,1010000.0,Cyprus,Europe & Central Asia
+137,Cyprus,2004,0.0,0,0.0,25600.0,3.8,24.9,1.03M,0.1,0.1,1030000.0,Cyprus,Europe & Central Asia
+138,Cyprus,2005,0.0,0,0.0,26400.0,3.7,26.0,1.05M,0.0,0.0,1050000.0,Cyprus,Europe & Central Asia
+139,Cyprus,2006,58.0,2,2.54,27200.0,3.7,25.5,1.06M,0.0,0.1,1060000.0,Cyprus,Europe & Central Asia
+140,Czech Republic,2003,0.0,0,0.0,14100.0,3.6,23.1,10.2M,0.0,1.0,10200000.0,Czech Republic,Europe & Central Asia
+141,Czech Republic,2004,0.0,0,0.0,15000.0,3.8,22.9,10.3M,0.1,0.6,10300000.0,Czech Republic,Europe & Central Asia
+142,Czech Republic,2005,41.0,1,0.0977,15900.0,3.7,22.6,10.3M,0.1,0.6,10300000.0,Czech Republic,Europe & Central Asia
+143,Czech Republic,2006,42.0,1,0.0978,16700.0,3.9,22.3,10.4M,0.2,0.5,10400000.0,Czech Republic,Europe & Central Asia
+144,Germany,2003,66.2,52,0.631,35000.0,3.4,24.1,81.6M,0.2,0.2,81600000.0,Germany,Europe & Central Asia
+145,Germany,2004,65.1,57,0.692,35300.0,3.3,25.3,81.6M,0.0,0.2,81600000.0,Germany,Europe & Central Asia
+146,Germany,2005,66.2,55,0.667,36700.0,3.4,24.9,81.5M,0.0,0.2,81500000.0,Germany,Europe & Central Asia
+147,Germany,2006,66.3,55,0.667,37800.0,3.4,25.2,81.3M,0.0,0.2,81300000.0,Germany,Europe & Central Asia
+148,Djibouti,2003,0.0,0,0.0,,,,772k,,,772000.0,Djibouti,Middle East & North Africa
+149,Djibouti,2004,0.0,0,0.0,,,,783k,,,783000.0,Djibouti,Middle East & North Africa
+150,Djibouti,2005,0.0,0,0.0,,,,795k,,,795000.0,Djibouti,Middle East & North Africa
+151,Djibouti,2006,0.0,0,0.0,,,,805k,,,805000.0,Djibouti,Middle East & North Africa
+152,Denmark,2003,67.0,3,0.554,50800.0,4.0,20.7,5.4M,0.3,0.4,5400000.0,Denmark,Europe & Central Asia
+153,Denmark,2004,68.0,3,0.552,51800.0,4.0,21.0,5.42M,0.3,0.5,5420000.0,Denmark,Europe & Central Asia
+154,Denmark,2005,75.0,2,0.367,53700.0,4.0,21.8,5.44M,0.2,0.3,5440000.0,Denmark,Europe & Central Asia
+155,Denmark,2006,76.0,2,0.366,53900.0,3.9,22.1,5.47M,0.3,0.5,5470000.0,Denmark,Europe & Central Asia
+156,Dominican Republic,2003,0.0,0,0.0,4300.0,1.4,41.7,8.97M,23.5,47.1,8970000.0,Dominican Republic,Latin America & Caribbean
+157,Dominican Republic,2004,0.0,0,0.0,4650.0,1.5,39.0,9.1M,17.2,37.9,9100000.0,Dominican Republic,Latin America & Caribbean
+158,Dominican Republic,2005,0.0,0,0.0,5010.0,1.4,41.2,9.22M,14.5,34.7,9220000.0,Dominican Republic,Latin America & Caribbean
+159,Dominican Republic,2006,0.0,0,0.0,5310.0,1.6,38.6,9.34M,14.0,34.6,9340000.0,Dominican Republic,Latin America & Caribbean
+160,Algeria,2003,0.0,0,0.0,3590.0,,,32.7M,,,32700000.000000004,Algeria,Middle East & North Africa
+161,Algeria,2004,0.0,0,0.0,3750.0,,,33.1M,,,33100000.0,Algeria,Middle East & North Africa
+162,Algeria,2005,0.0,0,0.0,3760.0,,,33.6M,,,33600000.0,Algeria,Middle East & North Africa
+163,Algeria,2006,0.0,0,0.0,3830.0,,,34.2M,,,34200000.0,Algeria,Middle East & North Africa
+164,Ecuador,2003,0.0,0,0.0,4730.0,1.0,42.4,13.6M,31.9,54.9,13600000.0,Ecuador,Latin America & Caribbean
+165,Ecuador,2004,0.0,0,0.0,4890.0,1.1,41.1,13.8M,25.3,46.5,13800000.0,Ecuador,Latin America & Caribbean
+166,Ecuador,2005,0.0,0,0.0,5020.0,1.2,41.1,14.1M,19.9,41.4,14100000.0,Ecuador,Latin America & Caribbean
+167,Ecuador,2006,0.0,0,0.0,5050.0,1.1,42.0,14.3M,19.4,40.5,14300000.0,Ecuador,Latin America & Caribbean
+168,Egypt,2003,0.0,0,0.0,2760.0,3.9,27.4,74.2M,35.4,77.7,74200000.0,Egypt,Middle East & North Africa
+169,Egypt,2004,75.0,1,0.0129,2830.0,,,75.5M,,,75500000.0,Egypt,Middle East & North Africa
+170,Egypt,2005,76.0,2,0.0254,2970.0,,,76.9M,,,76900000.0,Egypt,Middle East & North Africa
+171,Egypt,2006,59.7,4,0.0498,3130.0,,,78.2M,,,78200000.0,Egypt,Middle East & North Africa
+172,Spain,2003,61.9,8,0.199,25700.0,2.4,24.9,43.3M,1.3,2.1,43300000.0,Spain,Europe & Central Asia
+173,Spain,2004,64.8,10,0.248,26100.0,2.5,24.3,44M,1.1,2.3,44000000.0,Spain,Europe & Central Asia
+174,Spain,2005,65.8,10,0.247,26800.0,2.3,24.9,44.7M,1.1,2.4,44700000.0,Spain,Europe & Central Asia
+175,Spain,2006,62.1,20,0.494,27200.0,2.4,25.6,45.4M,0.7,1.5,45400000.0,Spain,Europe & Central Asia
+176,Estonia,2003,0.0,0,0.0,13300.0,2.5,25.9,1.36M,2.7,8.2,1360000.0,Estonia,Europe & Central Asia
+177,Estonia,2004,0.0,0,0.0,14600.0,2.7,26.2,1.36M,1.6,5.5,1360000.0,Estonia,Europe & Central Asia
+178,Estonia,2005,0.0,0,0.0,16200.0,2.8,26.9,1.35M,1.3,3.1,1350000.0,Estonia,Europe & Central Asia
+179,Estonia,2006,0.0,0,0.0,17500.0,3.0,24.0,1.34M,0.8,2.3,1340000.0,Estonia,Europe & Central Asia
+180,Ethiopia,2003,0.0,0,0.0,286.0,4.1,25.6,74.2M,79.8,95.8,74200000.0,Ethiopia,Sub-Saharan Africa
+181,Ethiopia,2004,0.0,0,0.0,310.0,,,76.3M,,,76300000.0,Ethiopia,Sub-Saharan Africa
+182,Ethiopia,2005,0.0,0,0.0,335.0,,,78.5M,,,78500000.0,Ethiopia,Sub-Saharan Africa
+183,Ethiopia,2006,0.0,0,0.0,363.0,,,80.7M,,,80700000.0,Ethiopia,Sub-Saharan Africa
+184,Finland,2003,0.0,0,0.0,41500.0,3.9,23.2,5.24M,0.1,0.1,5240000.0,Finland,Europe & Central Asia
+185,Finland,2004,0.0,0,0.0,42500.0,4.0,23.0,5.26M,0.1,0.2,5260000.0,Finland,Europe & Central Asia
+186,Finland,2005,0.0,0,0.0,44100.0,3.8,23.0,5.28M,0.1,0.2,5280000.0,Finland,Europe & Central Asia
+187,Finland,2006,0.0,0,0.0,46200.0,3.8,23.3,5.3M,0.1,0.1,5300000.0,Finland,Europe & Central Asia
+188,Fiji,2003,0.0,0,0.0,4560.0,,,818k,,,818000.0,Fiji,East Asia & Pacific
+189,Fiji,2004,0.0,0,0.0,4570.0,,,822k,,,822000.0,Fiji,East Asia & Pacific
+190,Fiji,2005,0.0,0,0.0,4620.0,,,828k,,,828000.0,Fiji,East Asia & Pacific
+191,Fiji,2006,0.0,0,0.0,4530.0,,,836k,,,836000.0,Fiji,East Asia & Pacific
+192,France,2003,67.0,12,0.199,34900.0,3.4,24.5,60.7M,0.1,0.2,60700000.0,France,Europe & Central Asia
+193,France,2004,66.7,14,0.231,35200.0,3.5,23.9,61.1M,0.1,0.2,61100000.0,France,Europe & Central Asia
+194,France,2005,67.5,14,0.23,35800.0,3.4,23.5,61.5M,0.0,0.2,61500000.0,France,Europe & Central Asia
+195,France,2006,69.9,15,0.246,36500.0,3.3,26.2,61.9M,0.0,0.1,61900000.0,France,Europe & Central Asia
+196,"Micronesia, Fed. Sts.",2003,0.0,0,0.0,2950.0,,,107k,,,107000.0,"Micronesia, Fed. Sts.",East Asia & Pacific
+197,"Micronesia, Fed. Sts.",2004,0.0,0,0.0,3020.0,2.2,32.5,106k,24.6,51.6,106000.0,"Micronesia, Fed. Sts.",East Asia & Pacific
+198,"Micronesia, Fed. Sts.",2005,0.0,0,0.0,3040.0,,,105k,,,105000.0,"Micronesia, Fed. Sts.",East Asia & Pacific
+199,"Micronesia, Fed. Sts.",2006,0.0,0,0.0,3010.0,,,104k,,,104000.0,"Micronesia, Fed. Sts.",East Asia & Pacific
+200,Gabon,2003,0.0,0,0.0,7510.0,,,1.35M,,,1350000.0,Gabon,Sub-Saharan Africa
+201,Gabon,2004,0.0,0,0.0,7500.0,2.3,33.1,1.39M,25.8,56.1,1390000.0,Gabon,Sub-Saharan Africa
+202,Gabon,2005,0.0,0,0.0,7090.0,,,1.43M,,,1430000.0,Gabon,Sub-Saharan Africa
+203,Gabon,2006,0.0,0,0.0,7300.0,,,1.47M,,,1470000.0,Gabon,Sub-Saharan Africa
+204,United Kingdom,2003,59.0,17,0.282,42300.0,2.5,27.8,59.9M,0.6,1.2,59900000.0,United Kingdom,Europe & Central Asia
+205,United Kingdom,2004,59.7,24,0.397,43100.0,2.6,26.1,60.3M,0.8,1.2,60300000.0,United Kingdom,Europe & Central Asia
+206,United Kingdom,2005,58.4,24,0.396,43900.0,2.7,26.7,60.8M,0.4,0.8,60800000.0,United Kingdom,Europe & Central Asia
+207,United Kingdom,2006,59.6,29,0.477,44600.0,2.6,28.0,61.5M,0.5,0.8,61500000.0,United Kingdom,Europe & Central Asia
+208,Georgia,2003,0.0,0,0.0,2110.0,2.3,26.7,4.23M,27.8,58.8,4230000.0,Georgia,Europe & Central Asia
+209,Georgia,2004,0.0,0,0.0,2330.0,2.3,27.7,4.21M,30.1,61.3,4210000.0,Georgia,Europe & Central Asia
+210,Georgia,2005,0.0,0,0.0,2560.0,2.3,27.5,4.19M,30.1,62.2,4190000.000000001,Georgia,Europe & Central Asia
+211,Georgia,2006,0.0,0,0.0,2900.0,2.3,28.9,4.17M,32.5,64.5,4170000.0,Georgia,Europe & Central Asia
+212,Ghana,2003,0.0,0,0.0,1140.0,,,21.3M,,,21300000.0,Ghana,Sub-Saharan Africa
+213,Ghana,2004,0.0,0,0.0,1180.0,1.9,32.7,21.8M,48.0,75.9,21800000.0,Ghana,Sub-Saharan Africa
+214,Ghana,2005,0.0,0,0.0,1220.0,,,22.4M,,,22400000.0,Ghana,Sub-Saharan Africa
+215,Ghana,2006,0.0,0,0.0,1240.0,,,23M,,,23000000.0,Ghana,Sub-Saharan Africa
+216,Guinea,2003,0.0,0,0.0,655.0,,,8.93M,,,8930000.0,Guinea,Sub-Saharan Africa
+217,Guinea,2004,0.0,0,0.0,661.0,,,9.11M,,,9110000.0,Guinea,Sub-Saharan Africa
+218,Guinea,2005,0.0,0,0.0,655.0,,,9.31M,,,9310000.0,Guinea,Sub-Saharan Africa
+219,Guinea,2006,0.0,0,0.0,684.0,2.5,30.1,9.52M,81.4,94.3,9520000.0,Guinea,Sub-Saharan Africa
+220,Gambia,2003,0.0,0,0.0,751.0,,,1.5M,,,1500000.0,Gambia,Sub-Saharan Africa
+221,Gambia,2004,0.0,0,0.0,711.0,,,1.54M,,,1540000.0,Gambia,Sub-Saharan Africa
+222,Gambia,2005,0.0,0,0.0,686.0,,,1.59M,,,1590000.0,Gambia,Sub-Saharan Africa
+223,Gambia,2006,0.0,0,0.0,686.0,,,1.64M,,,1640000.0,Gambia,Sub-Saharan Africa
+224,Guinea-Bissau,2003,0.0,0,0.0,552.0,,,1.31M,,,1310000.0,Guinea-Bissau,Sub-Saharan Africa
+225,Guinea-Bissau,2004,0.0,0,0.0,562.0,,,1.34M,,,1340000.0,Guinea-Bissau,Sub-Saharan Africa
+226,Guinea-Bissau,2005,0.0,0,0.0,562.0,,,1.38M,,,1380000.0,Guinea-Bissau,Sub-Saharan Africa
+227,Guinea-Bissau,2006,0.0,0,0.0,566.0,,,1.41M,,,1410000.0,Guinea-Bissau,Sub-Saharan Africa
+228,Greece,2003,57.0,1,0.0939,22100.0,2.6,25.5,11.2M,1.0,1.7,11200000.0,Greece,Europe & Central Asia
+229,Greece,2004,58.0,1,0.0937,22200.0,2.6,26.3,11.2M,0.5,1.6,11200000.0,Greece,Europe & Central Asia
+230,Greece,2005,59.0,1,0.0936,23400.0,2.5,26.7,11.2M,0.9,1.9,11200000.0,Greece,Europe & Central Asia
+231,Greece,2006,60.0,1,0.0934,24100.0,2.6,26.0,11.1M,0.8,1.7,11100000.0,Greece,Europe & Central Asia
+232,Guatemala,2003,0.0,0,0.0,3280.0,,,12.8M,,,12800000.0,Guatemala,Latin America & Caribbean
+233,Guatemala,2004,0.0,0,0.0,3320.0,,,13.1M,,,13100000.0,Guatemala,Latin America & Caribbean
+234,Guatemala,2005,0.0,0,0.0,3430.0,1.1,43.2,13.4M,24.3,43.7,13400000.0,Guatemala,Latin America & Caribbean
+235,Guatemala,2006,0.0,0,0.0,3570.0,,,13.7M,,,13700000.0,Guatemala,Latin America & Caribbean
+236,Guyana,2003,0.0,0,0.0,4030.0,,,746k,,,746000.0,Guyana,Latin America & Caribbean
+237,Guyana,2004,0.0,0,0.0,3940.0,,,746k,,,746000.0,Guyana,Latin America & Caribbean
+238,Guyana,2005,0.0,0,0.0,4150.0,,,746k,,,746000.0,Guyana,Latin America & Caribbean
+239,Guyana,2006,0.0,0,0.0,4440.0,,,746k,,,746000.0,Guyana,Latin America & Caribbean
+240,Honduras,2003,0.0,0,0.0,1900.0,0.7,44.9,7.28M,44.6,63.9,7280000.0,Honduras,Latin America & Caribbean
+241,Honduras,2004,0.0,0,0.0,1970.0,0.5,46.1,7.46M,42.0,61.4,7460000.0,Honduras,Latin America & Caribbean
+242,Honduras,2005,0.0,0,0.0,2050.0,0.6,44.0,7.63M,37.3,55.9,7630000.0,Honduras,Latin America & Caribbean
+243,Honduras,2006,0.0,0,0.0,2130.0,0.9,43.1,7.81M,32.6,53.5,7810000.0,Honduras,Latin America & Caribbean
+244,Croatia,2003,0.0,0,0.0,10900.0,,,4.38M,,,4380000.0,Croatia,Europe & Central Asia
+245,Croatia,2004,0.0,0,0.0,11400.0,,,4.38M,,,4380000.0,Croatia,Europe & Central Asia
+246,Croatia,2005,0.0,0,0.0,12000.0,,,4.37M,,,4370000.0,Croatia,Europe & Central Asia
+247,Croatia,2006,0.0,0,0.0,12600.0,,,4.36M,,,4360000.0,Croatia,Europe & Central Asia
+248,Haiti,2003,0.0,0,0.0,1270.0,,,9.05M,,,9050000.0,Haiti,Latin America & Caribbean
+249,Haiti,2004,0.0,0,0.0,1280.0,,,9.2M,,,9200000.0,Haiti,Latin America & Caribbean
+250,Haiti,2005,0.0,0,0.0,1290.0,,,9.34M,,,9340000.0,Haiti,Latin America & Caribbean
+251,Haiti,2006,0.0,0,0.0,1320.0,,,9.5M,,,9500000.0,Haiti,Latin America & Caribbean
+252,Hungary,2003,0.0,0,0.0,10800.0,3.3,24.2,10.1M,0.3,2.9,10100000.0,Hungary,Europe & Central Asia
+253,Hungary,2004,0.0,0,0.0,11300.0,2.6,28.1,10.1M,1.2,4.5,10100000.0,Hungary,Europe & Central Asia
+254,Hungary,2005,0.0,0,0.0,11700.0,3.4,22.8,10.1M,0.3,1.9,10100000.0,Hungary,Europe & Central Asia
+255,Hungary,2006,0.0,0,0.0,11800.0,3.5,22.3,10M,0.3,1.8,10000000.0,Hungary,Europe & Central Asia
+256,Indonesia,2003,56.0,1,0.00463,2110.0,3.6,26.9,223M,59.8,87.0,223000000.0,Indonesia,East Asia & Pacific
+257,Indonesia,2004,60.5,2,0.00915,2200.0,3.6,27.4,226M,57.3,85.9,226000000.0,Indonesia,East Asia & Pacific
+258,Indonesia,2005,61.5,2,0.00905,2290.0,3.4,28.2,229M,62.4,87.9,229000000.0,Indonesia,East Asia & Pacific
+259,Indonesia,2006,62.5,2,0.00895,2400.0,3.4,28.9,232M,55.2,83.0,232000000.0,Indonesia,East Asia & Pacific
+260,India,2003,53.6,9,0.00845,898.0,3.7,29.2,1.13B,76.3,92.9,1130000000.0,India,South Asia
+261,India,2004,56.5,12,0.0111,954.0,,,1.15B,,,1150000000.0,India,South Asia
+262,India,2005,54.9,23,0.021,1010.0,,,1.17B,,,1170000000.0,India,South Asia
+263,India,2006,56.3,36,0.0324,1080.0,,,1.18B,,,1180000000.0,India,South Asia
+264,Ireland,2003,63.5,2,0.504,47700.0,3.0,26.6,4.06M,0.1,0.3,4060000.0,Ireland,Europe & Central Asia
+265,Ireland,2004,62.3,3,0.747,49400.0,3.1,27.0,4.14M,0.1,0.2,4140000.0,Ireland,Europe & Central Asia
+266,Ireland,2005,61.5,4,0.985,50500.0,3.1,25.6,4.23M,0.5,0.6,4230000.0,Ireland,Europe & Central Asia
+267,Ireland,2006,62.5,4,0.974,51600.0,3.3,25.5,4.32M,0.1,0.4,4320000.0,Ireland,Europe & Central Asia
+268,Iran,2003,0.0,0,0.0,4540.0,,,69M,,,69000000.0,Iran,Middle East & North Africa
+269,Iran,2004,0.0,0,0.0,4630.0,2.0,33.3,69.8M,4.0,15.8,69800000.0,Iran,Middle East & North Africa
+270,Iran,2005,0.0,0,0.0,4810.0,2.0,34.0,70.6M,4.1,16.8,70600000.0,Iran,Middle East & North Africa
+271,Iran,2006,0.0,0,0.0,5150.0,,,71.3M,,,71300000.0,Iran,Middle East & North Africa
+272,Iraq,2003,0.0,0,0.0,3520.0,,,26.3M,,,26300000.0,Iraq,Middle East & North Africa
+273,Iraq,2004,0.0,0,0.0,3490.0,,,26.9M,,,26900000.0,Iraq,Middle East & North Africa
+274,Iraq,2005,0.0,0,0.0,3620.0,3.9,23.6,27.4M,15.7,57.0,27400000.0,Iraq,Middle East & North Africa
+275,Iraq,2006,0.0,0,0.0,3630.0,,,27.9M,,,27900000.0,Iraq,Middle East & North Africa
+276,Iceland,2003,0.0,0,0.0,46800.0,3.8,23.7,291k,0.2,0.4,291000.0,Iceland,Europe & Central Asia
+277,Iceland,2004,38.0,1,3.37,48900.0,3.7,24.4,295k,0.1,0.2,295000.0,Iceland,Europe & Central Asia
+278,Iceland,2005,39.0,1,3.34,50700.0,3.6,25.4,300k,0.3,0.3,300000.0,Iceland,Europe & Central Asia
+279,Iceland,2006,53.0,2,6.62,53600.0,3.7,24.8,305k,0.1,0.2,305000.0,Iceland,Europe & Central Asia
+280,Israel,2003,56.8,5,0.807,28200.0,1.8,29.3,6.4M,1.5,6.5,6400000.0,Israel,Middle East & North Africa
+281,Israel,2004,62.0,6,0.956,28800.0,1.8,30.4,6.53M,1.2,6.0,6530000.0,Israel,Middle East & North Africa
+282,Israel,2005,63.5,8,1.26,29900.0,1.8,29.7,6.68M,1.0,5.7,6680000.0,Israel,Middle East & North Africa
+283,Israel,2006,62.9,9,1.4,31200.0,1.8,29.5,6.85M,1.0,4.7,6850000.0,Israel,Middle East & North Africa
+284,Italy,2003,66.5,14,0.241,33200.0,2.4,26.3,57.9M,0.9,1.5,57900000.0,Italy,Europe & Central Asia
+285,Italy,2004,67.2,10,0.172,33300.0,2.4,25.5,58.3M,1.0,1.7,58300000.0,Italy,Europe & Central Asia
+286,Italy,2005,64.4,14,0.241,33800.0,2.5,25.6,58.5M,0.9,1.4,58500000.0,Italy,Europe & Central Asia
+287,Italy,2006,66.0,13,0.224,34100.0,2.5,24.9,58.7M,1.1,1.6,58700000.0,Italy,Europe & Central Asia
+288,Jamaica,2003,0.0,0,0.0,5120.0,2.1,35.8,2.73M,8.8,29.2,2730000.0,Jamaica,Latin America & Caribbean
+289,Jamaica,2004,0.0,0,0.0,5140.0,,,2.74M,,,2740000.0,Jamaica,Latin America & Caribbean
+290,Jamaica,2005,0.0,0,0.0,5260.0,,,2.75M,,,2750000.0,Jamaica,Latin America & Caribbean
+291,Jamaica,2006,0.0,0,0.0,5310.0,,,2.77M,,,2770000.0,Jamaica,Latin America & Caribbean
+292,Jordan,2003,0.0,0,0.0,4150.0,,,5.58M,,,5580000.0,Jordan,Middle East & North Africa
+293,Jordan,2004,0.0,0,0.0,4340.0,,,5.77M,,,5770000.0,Jordan,Middle East & North Africa
+294,Jordan,2005,0.0,0,0.0,4520.0,3.3,27.5,5.99M,3.9,24.4,5990000.0,Jordan,Middle East & North Africa
+295,Jordan,2006,0.0,0,0.0,4680.0,,,6.26M,,,6260000.0,Jordan,Middle East & North Africa
+296,Japan,2003,66.3,22,0.173,32500.0,,,128M,,,128000000.0,Japan,East Asia & Pacific
+297,Japan,2004,65.5,24,0.188,33100.0,,,128M,,,128000000.0,Japan,East Asia & Pacific
+298,Japan,2005,64.4,27,0.212,33500.0,,,128M,,,128000000.0,Japan,East Asia & Pacific
+299,Japan,2006,64.8,24,0.188,34000.0,,,128M,,,128000000.0,Japan,East Asia & Pacific
+300,Kazakhstan,2003,0.0,0,0.0,6580.0,3.4,25.1,15.3M,14.0,48.2,15300000.0,Kazakhstan,Europe & Central Asia
+301,Kazakhstan,2004,50.7,3,0.198,7160.0,2.3,29.7,15.4M,21.7,48.9,15400000.0,Kazakhstan,Europe & Central Asia
+302,Kazakhstan,2005,48.5,2,0.131,7840.0,3.7,24.9,15.6M,4.8,30.7,15600000.0,Kazakhstan,Europe & Central Asia
+303,Kazakhstan,2006,43.8,5,0.327,8440.0,3.8,24.6,15.7M,2.3,20.3,15700000.0,Kazakhstan,Europe & Central Asia
+304,Kenya,2003,0.0,0,0.0,1160.0,,,35.6M,,,35600000.0,Kenya,Sub-Saharan Africa
+305,Kenya,2004,0.0,0,0.0,1200.0,1.8,36.8,36.6M,69.6,88.3,36600000.0,Kenya,Sub-Saharan Africa
+306,Kenya,2005,0.0,0,0.0,1240.0,,,37.6M,,,37600000.0,Kenya,Sub-Saharan Africa
+307,Kenya,2006,0.0,0,0.0,1290.0,,,38.7M,,,38700000.0,Kenya,Sub-Saharan Africa
+308,Kyrgyz Republic,2003,0.0,0,0.0,831.0,3.2,27.2,5.04M,41.2,74.0,5040000.0,Kyrgyz Republic,Europe & Central Asia
+309,Kyrgyz Republic,2004,0.0,0,0.0,821.0,3.5,26.2,5.08M,46.5,79.9,5080000.0,Kyrgyz Republic,Europe & Central Asia
+310,Kyrgyz Republic,2005,0.0,0,0.0,837.0,3.1,29.4,5.12M,34.2,66.5,5120000.0,Kyrgyz Republic,Europe & Central Asia
+311,Kyrgyz Republic,2006,0.0,0,0.0,900.0,3.1,26.5,5.18M,30.9,66.9,5180000.0,Kyrgyz Republic,Europe & Central Asia
+312,Kiribati,2003,0.0,0,0.0,1490.0,,,90.5k,,,90500.0,Kiribati,East Asia & Pacific
+313,Kiribati,2004,0.0,0,0.0,1530.0,,,92.3k,,,92300.0,Kiribati,East Asia & Pacific
+314,Kiribati,2005,0.0,0,0.0,1500.0,2.6,29.3,94.3k,34.6,69.4,94300.0,Kiribati,East Asia & Pacific
+315,Kiribati,2006,0.0,0,0.0,1490.0,,,96.5k,,,96500.0,Kiribati,East Asia & Pacific
+316,South Korea,2003,71.5,2,0.0413,20400.0,,,48.5M,,,48500000.0,South Korea,East Asia & Pacific
+317,South Korea,2004,70.7,3,0.0617,21200.0,,,48.7M,,,48700000.0,South Korea,East Asia & Pacific
+318,South Korea,2005,69.3,4,0.0819,22200.0,2.7,24.0,48.9M,0.5,1.2,48900000.0,South Korea,East Asia & Pacific
+319,South Korea,2006,52.7,10,0.204,23400.0,,,49M,,,49000000.0,South Korea,East Asia & Pacific
+320,Lao,2003,0.0,0,0.0,1110.0,,,5.66M,,,5660000.0,Lao,East Asia & Pacific
+321,Lao,2004,0.0,0,0.0,1170.0,,,5.75M,,,5750000.0,Lao,East Asia & Pacific
+322,Lao,2005,0.0,0,0.0,1250.0,,,5.85M,,,5850000.0,Lao,East Asia & Pacific
+323,Lao,2006,0.0,0,0.0,1330.0,3.3,29.3,5.94M,64.1,88.2,5940000.0,Lao,East Asia & Pacific
+324,Lebanon,2003,60.0,1,0.265,6690.0,,,4.57M,,,4570000.0,Lebanon,Middle East & North Africa
+325,Lebanon,2004,0.0,0,0.0,6680.0,,,4.7M,,,4700000.0,Lebanon,Middle East & North Africa
+326,Lebanon,2005,23.5,3,0.774,6700.0,,,4.76M,,,4760000.0,Lebanon,Middle East & North Africa
+327,Lebanon,2006,38.5,4,1.02,7310.0,,,4.77M,,,4770000.0,Lebanon,Middle East & North Africa
+328,Liberia,2003,0.0,0,0.0,540.0,,,3.14M,,,3140000.0,Liberia,Sub-Saharan Africa
+329,Liberia,2004,0.0,0,0.0,554.0,,,3.22M,,,3220000.0,Liberia,Sub-Saharan Africa
+330,Liberia,2005,0.0,0,0.0,578.0,,,3.33M,,,3330000.0,Liberia,Sub-Saharan Africa
+331,Liberia,2006,0.0,0,0.0,609.0,2.4,28.3,3.46M,91.3,97.8,3460000.0,Liberia,Sub-Saharan Africa
+332,St. Lucia,2003,0.0,0,0.0,9800.0,,,162k,,,162000.0,St. Lucia,Latin America & Caribbean
+333,St. Lucia,2004,0.0,0,0.0,9660.0,,,163k,,,163000.0,St. Lucia,Latin America & Caribbean
+334,St. Lucia,2005,0.0,0,0.0,10100.0,,,165k,,,165000.0,St. Lucia,Latin America & Caribbean
+335,St. Lucia,2006,0.0,0,0.0,10200.0,,,168k,,,168000.0,St. Lucia,Latin America & Caribbean
+336,Sri Lanka,2003,0.0,0,0.0,2130.0,,,19.4M,,,19400000.0,Sri Lanka,South Asia
+337,Sri Lanka,2004,0.0,0,0.0,2240.0,,,19.5M,,,19500000.0,Sri Lanka,South Asia
+338,Sri Lanka,2005,0.0,0,0.0,2400.0,3.0,32.3,19.7M,25.7,61.0,19700000.0,Sri Lanka,South Asia
+339,Sri Lanka,2006,0.0,0,0.0,2540.0,,,19.8M,,,19800000.0,Sri Lanka,South Asia
+340,Lesotho,2003,0.0,0,0.0,804.0,,,2.01M,,,2010000.0,Lesotho,Sub-Saharan Africa
+341,Lesotho,2004,0.0,0,0.0,836.0,,,2M,,,2000000.0,Lesotho,Sub-Saharan Africa
+342,Lesotho,2005,0.0,0,0.0,874.0,,,1.99M,,,1990000.0,Lesotho,Sub-Saharan Africa
+343,Lesotho,2006,0.0,0,0.0,912.0,,,1.99M,,,1990000.0,Lesotho,Sub-Saharan Africa
+344,Lithuania,2003,0.0,0,0.0,8920.0,2.0,27.9,3.38M,7.0,18.7,3380000.0,Lithuania,Europe & Central Asia
+345,Lithuania,2004,0.0,0,0.0,9770.0,2.2,27.2,3.34M,4.3,12.1,3340000.0,Lithuania,Europe & Central Asia
+346,Lithuania,2005,0.0,0,0.0,10700.0,2.3,26.8,3.3M,2.8,7.1,3300000.0,Lithuania,Europe & Central Asia
+347,Lithuania,2006,0.0,0,0.0,12000.0,2.4,26.8,3.26M,1.9,4.3,3260000.0,Lithuania,Europe & Central Asia
+348,Luxembourg,2003,0.0,0,0.0,100000.0,3.3,23.7,452k,0.0,0.1,452000.0,Luxembourg,Europe & Central Asia
+349,Luxembourg,2004,0.0,0,0.0,101000.0,3.3,24.3,458k,0.1,0.1,458000.0,Luxembourg,Europe & Central Asia
+350,Luxembourg,2005,0.0,0,0.0,106000.0,3.3,24.3,466k,0.0,0.0,466000.0,Luxembourg,Europe & Central Asia
+351,Luxembourg,2006,0.0,0,0.0,112000.0,3.3,25.1,475k,0.0,0.0,475000.0,Luxembourg,Europe & Central Asia
+352,Latvia,2003,0.0,0,0.0,9410.0,2.2,28.5,2.28M,5.4,15.2,2280000.0,Latvia,Europe & Central Asia
+353,Latvia,2004,0.0,0,0.0,10500.0,2.0,30.0,2.25M,4.8,14.0,2250000.0,Latvia,Europe & Central Asia
+354,Latvia,2005,0.0,0,0.0,11900.0,2.4,26.8,2.23M,2.6,7.7,2230000.0,Latvia,Europe & Central Asia
+355,Latvia,2006,0.0,0,0.0,13200.0,2.3,28.3,2.2M,1.6,4.9,2200000.0,Latvia,Europe & Central Asia
+356,Morocco,2003,0.0,0,0.0,2070.0,,,30.1M,,,30100000.0,Morocco,Middle East & North Africa
+357,Morocco,2004,0.0,0,0.0,2110.0,,,30.5M,,,30500000.0,Morocco,Middle East & North Africa
+358,Morocco,2005,0.0,0,0.0,2240.0,2.6,33.1,30.8M,16.2,47.0,30800000.0,Morocco,Middle East & North Africa
+359,Morocco,2006,0.0,0,0.0,2290.0,,,31.2M,,,31200000.0,Morocco,Middle East & North Africa
+360,Moldova,2003,0.0,0,0.0,1770.0,3.0,27.7,4.17M,32.0,68.5,4170000.0,Moldova,Europe & Central Asia
+361,Moldova,2004,0.0,0,0.0,1910.0,2.8,28.4,4.16M,40.3,73.7,4160000.0,Moldova,Europe & Central Asia
+362,Moldova,2005,0.0,0,0.0,2000.0,2.8,27.4,4.15M,12.2,39.9,4150000.000000001,Moldova,Europe & Central Asia
+363,Moldova,2006,0.0,0,0.0,2070.0,3.0,26.8,4.13M,7.7,31.0,4130000.0,Moldova,Europe & Central Asia
+364,Madagascar,2003,0.0,0,0.0,463.0,,,17.8M,,,17800000.0,Madagascar,Sub-Saharan Africa
+365,Madagascar,2004,0.0,0,0.0,471.0,2.7,32.4,18.3M,89.2,97.0,18300000.0,Madagascar,Sub-Saharan Africa
+366,Madagascar,2005,0.0,0,0.0,482.0,,,18.9M,,,18900000.0,Madagascar,Sub-Saharan Africa
+367,Madagascar,2006,0.0,0,0.0,495.0,,,19.4M,,,19400000.0,Madagascar,Sub-Saharan Africa
+368,Maldives,2003,0.0,0,0.0,7790.0,,,311k,,,311000.0,Maldives,South Asia
+369,Maldives,2004,0.0,0,0.0,6590.0,,,320k,,,320000.0,Maldives,South Asia
+370,Maldives,2005,0.0,0,0.0,8110.0,,,327k,,,327000.0,Maldives,South Asia
+371,Maldives,2006,0.0,0,0.0,8530.0,,,335k,,,335000.0,Maldives,South Asia
+372,Mexico,2003,63.0,11,0.105,8800.0,1.5,39.6,105M,15.8,37.4,105000000.0,Mexico,Latin America & Caribbean
+373,Mexico,2004,60.9,10,0.0942,8880.0,1.4,39.6,106M,16.0,36.7,106000000.0,Mexico,Latin America & Caribbean
+374,Mexico,2005,61.9,10,0.0931,9140.0,1.6,38.9,108M,13.0,33.1,108000000.0,Mexico,Latin America & Caribbean
+375,Mexico,2006,62.8,10,0.092,9210.0,,,109M,,,109000000.0,Mexico,Latin America & Caribbean
+376,Marshall Islands,2003,0.0,0,0.0,3050.0,,,54.5k,,,54500.0,Marshall Islands,East Asia & Pacific
+377,Marshall Islands,2004,0.0,0,0.0,3080.0,,,55.3k,,,55300.0,Marshall Islands,East Asia & Pacific
+378,Marshall Islands,2005,0.0,0,0.0,3040.0,,,55.8k,,,55800.0,Marshall Islands,East Asia & Pacific
+379,Marshall Islands,2006,0.0,0,0.0,3120.0,,,56k,,,56000.0,Marshall Islands,East Asia & Pacific
+380,Mali,2003,0.0,0,0.0,667.0,,,12.4M,,,12400000.0,Mali,Sub-Saharan Africa
+381,Mali,2004,0.0,0,0.0,688.0,,,12.8M,,,12800000.0,Mali,Sub-Saharan Africa
+382,Mali,2005,0.0,0,0.0,697.0,2.5,30.2,13.2M,78.1,92.5,13200000.0,Mali,Sub-Saharan Africa
+383,Mali,2006,0.0,0,0.0,697.0,,,13.7M,,,13700000.0,Mali,Sub-Saharan Africa
+384,Malta,2003,0.0,0,0.0,17700.0,,,403k,,,403000.0,Malta,Middle East & North Africa
+385,Malta,2004,0.0,0,0.0,18100.0,,,405k,,,405000.0,Malta,Middle East & North Africa
+386,Malta,2005,0.0,0,0.0,18500.0,3.4,22.1,406k,0.6,0.8,406000.0,Malta,Middle East & North Africa
+387,Malta,2006,0.0,0,0.0,19300.0,3.2,22.6,408k,0.6,1.0,408000.0,Malta,Middle East & North Africa
+388,Myanmar,2003,0.0,0,0.0,481.0,,,48.6M,,,48600000.0,Myanmar,East Asia & Pacific
+389,Myanmar,2004,0.0,0,0.0,542.0,,,48.9M,,,48900000.0,Myanmar,East Asia & Pacific
+390,Myanmar,2005,0.0,0,0.0,610.0,,,49.3M,,,49300000.0,Myanmar,East Asia & Pacific
+391,Myanmar,2006,0.0,0,0.0,682.0,,,49.6M,,,49600000.0,Myanmar,East Asia & Pacific
+392,Montenegro,2003,0.0,0,0.0,4820.0,,,615k,,,615000.0,Montenegro,Europe & Central Asia
+393,Montenegro,2004,0.0,0,0.0,5010.0,,,616k,,,616000.0,Montenegro,Europe & Central Asia
+394,Montenegro,2005,0.0,0,0.0,5430.0,,,618k,,,618000.0,Montenegro,Europe & Central Asia
+395,Montenegro,2006,0.0,0,0.0,5800.0,,,620k,,,620000.0,Montenegro,Europe & Central Asia
+396,Mongolia,2003,0.0,0,0.0,1950.0,,,2.5M,,,2500000.0,Mongolia,East Asia & Pacific
+397,Mongolia,2004,0.0,0,0.0,2070.0,,,2.53M,,,2530000.0,Mongolia,East Asia & Pacific
+398,Mongolia,2005,0.0,0,0.0,2220.0,,,2.56M,,,2560000.0,Mongolia,East Asia & Pacific
+399,Mongolia,2006,0.0,0,0.0,2410.0,3.0,27.8,2.59M,11.4,40.2,2590000.0,Mongolia,East Asia & Pacific
+400,Mozambique,2003,0.0,0,0.0,370.0,,,19.9M,,,19900000.0,Mozambique,Sub-Saharan Africa
+401,Mozambique,2004,0.0,0,0.0,384.0,,,20.5M,,,20500000.0,Mozambique,Sub-Saharan Africa
+402,Mozambique,2005,0.0,0,0.0,409.0,,,21.1M,,,21100000.0,Mozambique,Sub-Saharan Africa
+403,Mozambique,2006,0.0,0,0.0,429.0,,,21.7M,,,21700000.0,Mozambique,Sub-Saharan Africa
+404,Mauritania,2003,0.0,0,0.0,1310.0,2.6,32.6,2.94M,47.0,77.7,2940000.0,Mauritania,Sub-Saharan Africa
+405,Mauritania,2004,0.0,0,0.0,1380.0,,,3.02M,,,3020000.0,Mauritania,Sub-Saharan Africa
+406,Mauritania,2005,0.0,0,0.0,1590.0,,,3.11M,,,3110000.0,Mauritania,Sub-Saharan Africa
+407,Mauritania,2006,0.0,0,0.0,1510.0,,,3.2M,,,3200000.0,Mauritania,Sub-Saharan Africa
+408,Mauritius,2003,0.0,0,0.0,6240.0,,,1.22M,,,1220000.0,Mauritius,Sub-Saharan Africa
+409,Mauritius,2004,0.0,0,0.0,6320.0,,,1.22M,,,1220000.0,Mauritius,Sub-Saharan Africa
+410,Mauritius,2005,0.0,0,0.0,6590.0,3.1,28.7,1.23M,3.6,21.1,1230000.0,Mauritius,Sub-Saharan Africa
+411,Mauritius,2006,0.0,0,0.0,6940.0,,,1.23M,,,1230000.0,Mauritius,Sub-Saharan Africa
+412,Malawi,2003,0.0,0,0.0,287.0,2.9,32.8,12.3M,90.2,97.0,12300000.0,Malawi,Sub-Saharan Africa
+413,Malawi,2004,0.0,0,0.0,289.0,,,12.6M,,,12600000.0,Malawi,Sub-Saharan Africa
+414,Malawi,2005,0.0,0,0.0,295.0,,,13M,,,13000000.0,Malawi,Sub-Saharan Africa
+415,Malawi,2006,0.0,0,0.0,314.0,,,13.3M,,,13300000.0,Malawi,Sub-Saharan Africa
+416,Malaysia,2003,72.6,5,0.213,7040.0,,,25.2M,,,25200000.0,Malaysia,East Asia & Pacific
+417,Malaysia,2004,73.5,6,0.251,7270.0,,,25.7M,,,25700000.0,Malaysia,East Asia & Pacific
+418,Malaysia,2005,73.8,8,0.328,7530.0,1.9,33.8,26.2M,3.8,16.5,26200000.0,Malaysia,East Asia & Pacific
+419,Malaysia,2006,72.6,9,0.363,7850.0,,,26.7M,,,26700000.0,Malaysia,East Asia & Pacific
+420,Namibia,2003,0.0,0,0.0,3650.0,,,1.91M,,,1910000.0,Namibia,Sub-Saharan Africa
+421,Namibia,2004,0.0,0,0.0,3680.0,,,1.94M,,,1940000.0,Namibia,Sub-Saharan Africa
+422,Namibia,2005,0.0,0,0.0,3880.0,,,1.97M,,,1970000.0,Namibia,Sub-Saharan Africa
+423,Namibia,2006,0.0,0,0.0,4010.0,,,2.01M,,,2010000.0,Namibia,Sub-Saharan Africa
+424,Niger,2003,0.0,0,0.0,398.0,,,13.1M,,,13100000.0,Niger,Sub-Saharan Africa
+425,Niger,2004,0.0,0,0.0,411.0,2.3,36.2,13.6M,90.9,97.1,13600000.0,Niger,Sub-Saharan Africa
+426,Niger,2005,0.0,0,0.0,420.0,,,14.1M,,,14100000.0,Niger,Sub-Saharan Africa
+427,Niger,2006,0.0,0,0.0,417.0,3.2,31.4,14.7M,90.6,96.8,14700000.0,Niger,Sub-Saharan Africa
+428,Nigeria,2003,0.0,0,0.0,1880.0,,,135M,,,135000000.0,Nigeria,Sub-Saharan Africa
+429,Nigeria,2004,0.0,0,0.0,1950.0,,,139M,,,139000000.0,Nigeria,Sub-Saharan Africa
+430,Nigeria,2005,0.0,0,0.0,2010.0,,,143M,,,143000000.0,Nigeria,Sub-Saharan Africa
+431,Nigeria,2006,0.0,0,0.0,2090.0,,,146M,,,146000000.0,Nigeria,Sub-Saharan Africa
+432,Nicaragua,2003,0.0,0,0.0,1530.0,,,5.36M,,,5360000.0,Nicaragua,Latin America & Caribbean
+433,Nicaragua,2004,0.0,0,0.0,1570.0,1.9,39.6,5.44M,27.4,54.4,5440000.0,Nicaragua,Latin America & Caribbean
+434,Nicaragua,2005,0.0,0,0.0,1620.0,,,5.51M,,,5510000.0,Nicaragua,Latin America & Caribbean
+435,Nicaragua,2006,0.0,0,0.0,1670.0,,,5.59M,,,5590000.0,Nicaragua,Latin America & Caribbean
+436,Netherlands,2003,56.0,4,0.245,41500.0,3.2,23.7,16.3M,0.4,0.8,16300000.0,Netherlands,Europe & Central Asia
+437,Netherlands,2004,58.5,4,0.244,42200.0,3.5,23.4,16.4M,0.2,0.4,16399999.999999998,Netherlands,Europe & Central Asia
+438,Netherlands,2005,59.5,4,0.242,43600.0,3.5,24.7,16.4M,0.1,0.2,16399999.999999998,Netherlands,Europe & Central Asia
+439,Netherlands,2006,60.5,4,0.241,45100.0,3.5,24.1,16.5M,0.1,0.3,16500000.0,Netherlands,Europe & Central Asia
+440,Norway,2003,65.0,4,0.874,71700.0,3.5,27.2,4.6M,0.3,0.5,4600000.0,Norway,Europe & Central Asia
+441,Norway,2004,65.8,4,0.871,73000.0,3.5,26.3,4.63M,0.3,0.4,4630000.0,Norway,Europe & Central Asia
+442,Norway,2005,66.8,4,0.868,74200.0,3.5,21.2,4.67M,0.3,0.5,4670000.0,Norway,Europe & Central Asia
+443,Norway,2006,64.3,4,0.864,75600.0,3.6,22.2,4.72M,0.2,0.4,4720000.0,Norway,Europe & Central Asia
+444,Nepal,2003,0.0,0,0.0,605.0,,,25.4M,,,25400000.0,Nepal,South Asia
+445,Nepal,2004,0.0,0,0.0,618.0,,,25.7M,,,25700000.0,Nepal,South Asia
+446,Nepal,2005,0.0,0,0.0,631.0,,,26.1M,,,26100000.0,Nepal,South Asia
+447,Nepal,2006,0.0,0,0.0,644.0,,,26.4M,,,26400000.0,Nepal,South Asia
+448,Nauru,2003,0.0,0,0.0,3430.0,,,9910,,,9910.0,Nauru,East Asia & Pacific
+449,Nauru,2004,0.0,0,0.0,3350.0,,,9850,,,9850.0,Nauru,East Asia & Pacific
+450,Nauru,2005,0.0,0,0.0,3670.0,,,9830,,,9830.0,Nauru,East Asia & Pacific
+451,Nauru,2006,0.0,0,0.0,2820.0,,,9850,,,9850.0,Nauru,East Asia & Pacific
+452,Pakistan,2003,0.0,0,0.0,1130.0,3.9,26.3,157M,60.6,88.3,157000000.0,Pakistan,South Asia
+453,Pakistan,2004,0.0,0,0.0,1180.0,4.1,27.1,160M,60.7,88.8,160000000.0,Pakistan,South Asia
+454,Pakistan,2005,0.0,0,0.0,1220.0,,,164M,,,164000000.0,Pakistan,South Asia
+455,Pakistan,2006,0.0,0,0.0,1250.0,4.3,25.7,168M,55.3,87.0,168000000.0,Pakistan,South Asia
+456,Panama,2003,0.0,0,0.0,7430.0,0.8,41.3,3.27M,19.7,35.0,3270000.0,Panama,Latin America & Caribbean
+457,Panama,2004,0.0,0,0.0,7820.0,0.8,40.2,3.33M,18.6,34.7,3330000.0,Panama,Latin America & Caribbean
+458,Panama,2005,0.0,0,0.0,8340.0,0.7,41.1,3.39M,19.0,34.0,3390000.0,Panama,Latin America & Caribbean
+459,Panama,2006,0.0,0,0.0,9170.0,1.0,39.7,3.45M,16.5,30.6,3450000.0,Panama,Latin America & Caribbean
+460,Peru,2003,0.0,0,0.0,3670.0,1.3,38.0,27.6M,28.6,50.0,27600000.0,Peru,Latin America & Caribbean
+461,Peru,2004,0.0,0,0.0,3870.0,1.2,38.5,27.9M,30.9,52.4,27900000.0,Peru,Latin America & Caribbean
+462,Peru,2005,0.0,0,0.0,4120.0,1.2,38.2,28.1M,26.9,46.6,28100000.0,Peru,Latin America & Caribbean
+463,Peru,2006,0.0,0,0.0,4440.0,1.2,37.8,28.3M,23.2,41.3,28300000.0,Peru,Latin America & Caribbean
+464,Philippines,2003,74.0,2,0.0232,2020.0,,,84.7M,,,84700000.0,Philippines,East Asia & Pacific
+465,Philippines,2004,73.3,3,0.0341,2080.0,,,86.3M,,,86300000.0,Philippines,East Asia & Pacific
+466,Philippines,2005,74.3,3,0.0335,2150.0,2.0,36.6,87.9M,38.2,63.4,87900000.0,Philippines,East Asia & Pacific
+467,Philippines,2006,75.3,3,0.0329,2250.0,,,89.4M,,,89400000.0,Philippines,East Asia & Pacific
+468,Papua New Guinea,2003,0.0,0,0.0,1810.0,,,6.35M,,,6350000.0,Papua New Guinea,East Asia & Pacific
+469,Papua New Guinea,2004,0.0,0,0.0,1890.0,,,6.49M,,,6490000.0,Papua New Guinea,East Asia & Pacific
+470,Papua New Guinea,2005,0.0,0,0.0,1940.0,,,6.65M,,,6650000.0,Papua New Guinea,East Asia & Pacific
+471,Papua New Guinea,2006,0.0,0,0.0,2050.0,,,6.81M,,,6810000.0,Papua New Guinea,East Asia & Pacific
+472,Poland,2003,0.0,0,0.0,8280.0,1.9,28.2,38.4M,4.5,12.7,38400000.0,Poland,Europe & Central Asia
+473,Poland,2004,51.5,2,0.0519,8570.0,2.4,26.8,38.4M,2.4,9.0,38400000.0,Poland,Europe & Central Asia
+474,Poland,2005,49.7,3,0.0779,9100.0,2.6,26.4,38.4M,1.6,6.5,38400000.0,Poland,Europe & Central Asia
+475,Poland,2006,50.4,5,0.13,9750.0,2.7,26.4,38.4M,1.1,3.9,38400000.0,Poland,Europe & Central Asia
+476,Portugal,2003,75.0,2,0.19,19100.0,2.4,30.9,10.5M,1.0,2.7,10500000.0,Portugal,Europe & Central Asia
+477,Portugal,2004,67.0,1,0.0946,19200.0,2.4,30.6,10.5M,1.1,2.7,10500000.0,Portugal,Europe & Central Asia
+478,Portugal,2005,68.0,1,0.0943,19500.0,2.5,29.7,10.5M,0.5,2.0,10500000.0,Portugal,Europe & Central Asia
+479,Portugal,2006,69.0,1,0.094,20000.0,2.6,28.9,10.6M,0.8,1.6,10600000.0,Portugal,Europe & Central Asia
+480,Paraguay,2003,0.0,0,0.0,3900.0,1.4,42.0,5.73M,16.2,37.0,5730000.0,Paraguay,Latin America & Caribbean
+481,Paraguay,2004,0.0,0,0.0,3920.0,1.3,40.4,5.82M,13.8,33.6,5820000.0,Paraguay,Latin America & Caribbean
+482,Paraguay,2005,0.0,0,0.0,4050.0,1.3,42.4,5.91M,18.7,38.4,5910000.0,Paraguay,Latin America & Caribbean
+483,Paraguay,2006,0.0,0,0.0,4210.0,1.2,42.5,6M,16.0,34.5,6000000.0,Paraguay,Latin America & Caribbean
+484,Palestine,2003,0.0,0,0.0,2430.0,3.0,26.5,3.51M,4.8,24.5,3510000.0,Palestine,Middle East & North Africa
+485,Palestine,2004,0.0,0,0.0,2630.0,2.9,26.7,3.58M,5.0,22.4,3580000.0,Palestine,Middle East & North Africa
+486,Palestine,2005,0.0,0,0.0,2540.0,3.2,27.1,3.66M,3.9,21.2,3660000.0,Palestine,Middle East & North Africa
+487,Palestine,2006,0.0,0,0.0,2570.0,2.8,27.6,3.76M,7.4,28.6,3760000.0,Palestine,Middle East & North Africa
+488,Romania,2003,0.0,0,0.0,5980.0,,,21.6M,,,21600000.0,Romania,Europe & Central Asia
+489,Romania,2004,0.0,0,0.0,6300.0,,,21.4M,,,21400000.0,Romania,Europe & Central Asia
+490,Romania,2005,0.0,0,0.0,6850.0,1.7,29.0,21.2M,16.5,35.2,21200000.0,Romania,Europe & Central Asia
+491,Romania,2006,67.0,1,0.0449,7450.0,1.9,27.4,21M,12.2,29.5,21000000.0,Romania,Europe & Central Asia
+492,Russia,2003,44.9,25,0.174,6860.0,2.3,30.5,144M,5.6,21.8,144000000.0,Russia,Europe & Central Asia
+493,Russia,2004,44.4,27,0.188,7320.0,2.3,31.4,144M,4.5,18.5,144000000.0,Russia,Europe & Central Asia
+494,Russia,2005,45.5,33,0.231,7950.0,2.3,31.3,143M,3.3,15.3,143000000.0,Russia,Europe & Central Asia
+495,Russia,2006,46.1,53,0.372,8640.0,2.3,32.8,143M,2.0,11.2,143000000.0,Russia,Europe & Central Asia
+496,Rwanda,2003,0.0,0,0.0,425.0,,,8.68M,,,8680000.0,Rwanda,Sub-Saharan Africa
+497,Rwanda,2004,0.0,0,0.0,457.0,1.7,43.9,8.84M,85.6,93.7,8840000.0,Rwanda,Sub-Saharan Africa
+498,Rwanda,2005,0.0,0,0.0,488.0,,,9.04M,,,9040000.0,Rwanda,Sub-Saharan Africa
+499,Rwanda,2006,0.0,0,0.0,512.0,,,9.27M,,,9270000.0,Rwanda,Sub-Saharan Africa
+500,Sudan,2003,0.0,0,0.0,1270.0,,,30.2M,,,30200000.0,Sudan,Sub-Saharan Africa
+501,Sudan,2004,0.0,0,0.0,1300.0,,,30.9M,,,30900000.0,Sudan,Sub-Saharan Africa
+502,Sudan,2005,0.0,0,0.0,1350.0,,,31.7M,,,31700000.0,Sudan,Sub-Saharan Africa
+503,Sudan,2006,0.0,0,0.0,1390.0,,,32.4M,,,32400000.0,Sudan,Sub-Saharan Africa
+504,Senegal,2003,0.0,0,0.0,1120.0,,,10.8M,,,10800000.0,Senegal,Sub-Saharan Africa
+505,Senegal,2004,0.0,0,0.0,1130.0,2.4,30.0,11.1M,67.7,88.8,11100000.0,Senegal,Sub-Saharan Africa
+506,Senegal,2005,0.0,0,0.0,1130.0,,,11.4M,,,11400000.0,Senegal,Sub-Saharan Africa
+507,Senegal,2006,0.0,0,0.0,1130.0,,,11.7M,,,11700000.0,Senegal,Sub-Saharan Africa
+508,Solomon Islands,2003,0.0,0,0.0,1770.0,,,459k,,,459000.0,Solomon Islands,East Asia & Pacific
+509,Solomon Islands,2004,0.0,0,0.0,1830.0,1.9,35.7,470k,73.0,88.5,470000.0,Solomon Islands,East Asia & Pacific
+510,Solomon Islands,2005,0.0,0,0.0,1870.0,,,481k,,,481000.0,Solomon Islands,East Asia & Pacific
+511,Solomon Islands,2006,0.0,0,0.0,1910.0,,,492k,,,492000.0,Solomon Islands,East Asia & Pacific
+512,Sierra Leone,2003,0.0,0,0.0,469.0,,,5.43M,,,5430000.0,Sierra Leone,Sub-Saharan Africa
+513,Sierra Leone,2004,0.0,0,0.0,472.0,,,5.65M,,,5650000.0,Sierra Leone,Sub-Saharan Africa
+514,Sierra Leone,2005,0.0,0,0.0,476.0,,,5.83M,,,5830000.0,Sierra Leone,Sub-Saharan Africa
+515,Sierra Leone,2006,0.0,0,0.0,501.0,,,5.99M,,,5990000.0,Sierra Leone,Sub-Saharan Africa
+516,El Salvador,2003,0.0,0,0.0,3070.0,1.1,35.6,6.02M,22.9,45.6,6020000.0,El Salvador,Latin America & Caribbean
+517,El Salvador,2004,0.0,0,0.0,3140.0,1.2,36.8,6.05M,23.1,45.5,6050000.0,El Salvador,Latin America & Caribbean
+518,El Salvador,2005,0.0,0,0.0,3260.0,1.7,35.6,6.08M,19.2,42.8,6080000.0,El Salvador,Latin America & Caribbean
+519,El Salvador,2006,0.0,0,0.0,3310.0,1.9,35.7,6.11M,15.3,39.6,6110000.0,El Salvador,Latin America & Caribbean
+520,Serbia,2003,0.0,0,0.0,4160.0,,,9.24M,,,9240000.0,Serbia,Europe & Central Asia
+521,Serbia,2004,0.0,0,0.0,4400.0,,,9.19M,,,9190000.0,Serbia,Europe & Central Asia
+522,Serbia,2005,0.0,0,0.0,4650.0,,,9.15M,,,9150000.0,Serbia,Europe & Central Asia
+523,Serbia,2006,61.0,1,0.0985,4970.0,,,9.1M,,,9100000.0,Serbia,Europe & Central Asia
+524,Sao Tome and Principe,2003,0.0,0,0.0,1150.0,,,154k,,,154000.0,Sao Tome and Principe,Sub-Saharan Africa
+525,Sao Tome and Principe,2004,0.0,0,0.0,1210.0,,,157k,,,157000.0,Sao Tome and Principe,Sub-Saharan Africa
+526,Sao Tome and Principe,2005,0.0,0,0.0,1280.0,,,162k,,,162000.0,Sao Tome and Principe,Sub-Saharan Africa
+527,Sao Tome and Principe,2006,0.0,0,0.0,1290.0,,,166k,,,166000.0,Sao Tome and Principe,Sub-Saharan Africa
+528,Slovak Republic,2003,0.0,0,0.0,10700.0,3.3,22.1,5.4M,0.7,5.1,5400000.0,Slovak Republic,Europe & Central Asia
+529,Slovak Republic,2004,0.0,0,0.0,11400.0,3.4,24.9,5.4M,0.4,3.1,5400000.0,Slovak Republic,Europe & Central Asia
+530,Slovak Republic,2005,0.0,0,0.0,12400.0,3.6,21.8,5.4M,0.8,2.1,5400000.0,Slovak Republic,Europe & Central Asia
+531,Slovak Republic,2006,0.0,0,0.0,13700.0,3.6,20.8,5.4M,0.9,2.0,5400000.0,Slovak Republic,Europe & Central Asia
+532,Slovenia,2003,0.0,0,0.0,18600.0,4.0,20.6,1.99M,0.2,0.3,1990000.0,Slovenia,Europe & Central Asia
+533,Slovenia,2004,0.0,0,0.0,19200.0,4.0,20.6,1.99M,0.2,0.4,1990000.0,Slovenia,Europe & Central Asia
+534,Slovenia,2005,0.0,0,0.0,20300.0,4.1,20.4,2M,0.1,0.3,2000000.0,Slovenia,Europe & Central Asia
+535,Slovenia,2006,0.0,0,0.0,21600.0,4.1,20.4,2.01M,0.1,0.2,2010000.0,Slovenia,Europe & Central Asia
+536,Sweden,2003,66.9,8,0.89,44900.0,3.7,21.1,8.99M,0.5,0.9,8990000.0,Sweden,Europe & Central Asia
+537,Sweden,2004,67.8,9,1.0,46000.0,3.2,21.1,9.04M,1.2,1.6,9040000.0,Sweden,Europe & Central Asia
+538,Sweden,2005,69.0,8,0.887,47900.0,3.6,21.1,9.1M,0.5,0.9,9100000.0,Sweden,Europe & Central Asia
+539,Sweden,2006,70.0,8,0.886,49100.0,3.4,21.7,9.16M,0.5,0.8,9160000.0,Sweden,Europe & Central Asia
+540,Seychelles,2003,0.0,0,0.0,9740.0,,,87.4k,,,87400.0,Seychelles,Sub-Saharan Africa
+541,Seychelles,2004,0.0,0,0.0,10600.0,,,88.7k,,,88700.0,Seychelles,Sub-Saharan Africa
+542,Seychelles,2005,0.0,0,0.0,11300.0,,,89.5k,,,89500.0,Seychelles,Sub-Saharan Africa
+543,Seychelles,2006,0.0,0,0.0,12400.0,,,90.1k,,,90100.0,Seychelles,Sub-Saharan Africa
+544,Syria,2003,0.0,0,0.0,1390.0,,,17.8M,,,17800000.0,Syria,Middle East & North Africa
+545,Syria,2004,0.0,0,0.0,1430.0,,,18.4M,,,18400000.0,Syria,Middle East & North Africa
+546,Syria,2005,0.0,0,0.0,1450.0,,,19.1M,,,19100000.0,Syria,Middle East & North Africa
+547,Syria,2006,0.0,0,0.0,1470.0,,,19.9M,,,19900000.0,Syria,Middle East & North Africa
+548,Chad,2003,0.0,0,0.0,598.0,,,9.73M,,,9730000.0,Chad,Sub-Saharan Africa
+549,Chad,2004,0.0,0,0.0,676.0,,,10.1M,,,10100000.0,Chad,Sub-Saharan Africa
+550,Chad,2005,0.0,0,0.0,657.0,,,10.5M,,,10500000.0,Chad,Sub-Saharan Africa
+551,Chad,2006,0.0,0,0.0,656.0,,,10.8M,,,10800000.0,Chad,Sub-Saharan Africa
+552,Togo,2003,0.0,0,0.0,504.0,,,5.47M,,,5470000.0,Togo,Sub-Saharan Africa
+553,Togo,2004,0.0,0,0.0,468.0,,,5.61M,,,5610000.0,Togo,Sub-Saharan Africa
+554,Togo,2005,0.0,0,0.0,468.0,2.5,32.6,5.76M,78.3,91.8,5760000.0,Togo,Sub-Saharan Africa
+555,Togo,2006,0.0,0,0.0,450.0,,,5.92M,,,5920000.0,Togo,Sub-Saharan Africa
+556,Thailand,2003,64.0,2,0.0314,4260.0,2.5,33.8,65M,8.7,33.4,65000000.0,Thailand,East Asia & Pacific
+557,Thailand,2004,66.0,3,0.0467,4410.0,,,65.4M,,,65400000.00000001,Thailand,East Asia & Pacific
+558,Thailand,2005,67.0,3,0.0464,4600.0,2.5,32.5,65.8M,6.1,26.8,65800000.0,Thailand,East Asia & Pacific
+559,Thailand,2006,68.0,3,0.0461,4830.0,2.7,30.8,66.2M,4.3,24.5,66200000.0,Thailand,East Asia & Pacific
+560,Tajikistan,2003,0.0,0,0.0,602.0,3.2,26.6,6.66M,45.1,79.5,6660000.0,Tajikistan,Europe & Central Asia
+561,Tajikistan,2004,0.0,0,0.0,631.0,,,6.79M,,,6790000.0,Tajikistan,Europe & Central Asia
+562,Tajikistan,2005,0.0,0,0.0,662.0,,,6.92M,,,6920000.0,Tajikistan,Europe & Central Asia
+563,Tajikistan,2006,0.0,0,0.0,699.0,2.6,25.1,7.06M,31.1,70.7,7060000.0,Tajikistan,Europe & Central Asia
+564,Turkmenistan,2003,0.0,0,0.0,2490.0,,,4.7M,,,4700000.0,Turkmenistan,Europe & Central Asia
+565,Turkmenistan,2004,0.0,0,0.0,2790.0,,,4.75M,,,4750000.0,Turkmenistan,Europe & Central Asia
+566,Turkmenistan,2005,0.0,0,0.0,3060.0,,,4.81M,,,4810000.0,Turkmenistan,Europe & Central Asia
+567,Turkmenistan,2006,0.0,0,0.0,3350.0,,,4.87M,,,4870000.0,Turkmenistan,Europe & Central Asia
+568,Timor-Leste,2003,0.0,0,0.0,913.0,,,972k,,,972000.0,Timor-Leste,East Asia & Pacific
+569,Timor-Leste,2004,0.0,0,0.0,919.0,,,995k,,,995000.0,Timor-Leste,East Asia & Pacific
+570,Timor-Leste,2005,0.0,0,0.0,862.0,,,1.02M,,,1020000.0,Timor-Leste,East Asia & Pacific
+571,Timor-Leste,2006,0.0,0,0.0,933.0,4.1,22.9,1.04M,77.3,96.0,1040000.0,Timor-Leste,East Asia & Pacific
+572,Tonga,2003,0.0,0,0.0,3900.0,,,100k,,,100000.0,Tonga,East Asia & Pacific
+573,Tonga,2004,0.0,0,0.0,3880.0,,,101k,,,101000.0,Tonga,East Asia & Pacific
+574,Tonga,2005,0.0,0,0.0,3840.0,,,102k,,,102000.0,Tonga,East Asia & Pacific
+575,Tonga,2006,0.0,0,0.0,3820.0,,,103k,,,103000.0,Tonga,East Asia & Pacific
+576,Trinidad and Tobago,2003,0.0,0,0.0,14500.0,,,1.29M,,,1290000.0,Trinidad and Tobago,Latin America & Caribbean
+577,Trinidad and Tobago,2004,0.0,0,0.0,15300.0,,,1.3M,,,1300000.0,Trinidad and Tobago,Latin America & Caribbean
+578,Trinidad and Tobago,2005,0.0,0,0.0,17300.0,,,1.3M,,,1300000.0,Trinidad and Tobago,Latin America & Caribbean
+579,Trinidad and Tobago,2006,0.0,0,0.0,18000.0,,,1.31M,,,1310000.0,Trinidad and Tobago,Latin America & Caribbean
+580,Tunisia,2003,0.0,0,0.0,3260.0,,,10M,,,10000000.0,Tunisia,Middle East & North Africa
+581,Tunisia,2004,0.0,0,0.0,3350.0,2.5,29.1,10.1M,15.2,41.5,10100000.0,Tunisia,Middle East & North Africa
+582,Tunisia,2005,0.0,0,0.0,3490.0,,,10.2M,,,10200000.0,Tunisia,Middle East & North Africa
+583,Tunisia,2006,0.0,0,0.0,3690.0,,,10.3M,,,10300000.0,Tunisia,Middle East & North Africa
+584,Turkey,2003,60.2,6,0.0871,7190.0,2.0,30.8,67M,9.7,27.0,67000000.0,Turkey,Europe & Central Asia
+585,Turkey,2004,60.9,8,0.115,7740.0,1.9,32.8,67.9M,9.4,24.6,67900000.0,Turkey,Europe & Central Asia
+586,Turkey,2005,62.5,21,0.298,8170.0,2.1,29.6,68.8M,7.9,21.9,68800000.0,Turkey,Europe & Central Asia
+587,Turkey,2006,61.3,25,0.351,8480.0,2.1,28.2,69.6M,6.4,19.1,69600000.0,Turkey,Europe & Central Asia
+588,Tuvalu,2003,0.0,0,0.0,2870.0,,,9870,,,9870.0,Tuvalu,East Asia & Pacific
+589,Tuvalu,2004,0.0,0,0.0,2720.0,,,10000,,,10000.0,Tuvalu,East Asia & Pacific
+590,Tuvalu,2005,0.0,0,0.0,2750.0,,,10.1k,,,10100.0,Tuvalu,East Asia & Pacific
+591,Tuvalu,2006,0.0,0,0.0,2890.0,,,10.2k,,,10200.0,Tuvalu,East Asia & Pacific
+592,Tanzania,2003,0.0,0,0.0,663.0,,,37.4M,,,37400000.0,Tanzania,Sub-Saharan Africa
+593,Tanzania,2004,0.0,0,0.0,692.0,,,38.5M,,,38500000.0,Tanzania,Sub-Saharan Africa
+594,Tanzania,2005,0.0,0,0.0,717.0,,,39.5M,,,39500000.0,Tanzania,Sub-Saharan Africa
+595,Tanzania,2006,0.0,0,0.0,745.0,2.5,31.9,40.7M,83.8,94.9,40700000.0,Tanzania,Sub-Saharan Africa
+596,Uganda,2003,0.0,0,0.0,593.0,,,26.8M,,,26800000.0,Uganda,Sub-Saharan Africa
+597,Uganda,2004,0.0,0,0.0,610.0,2.4,34.5,27.7M,80.2,92.6,27700000.0,Uganda,Sub-Saharan Africa
+598,Uganda,2005,0.0,0,0.0,655.0,,,28.6M,,,28600000.0,Uganda,Sub-Saharan Africa
+599,Uganda,2006,0.0,0,0.0,688.0,,,29.5M,,,29500000.0,Uganda,Sub-Saharan Africa
+600,Ukraine,2003,0.0,0,0.0,2070.0,3.6,23.1,47.2M,4.8,26.7,47200000.0,Ukraine,Europe & Central Asia
+601,Ukraine,2004,44.0,3,0.0638,2140.0,3.7,23.2,46.9M,2.2,17.0,46900000.0,Ukraine,Europe & Central Asia
+602,Ukraine,2005,45.0,3,0.0642,2320.0,3.7,24.1,46.6M,1.4,13.4,46600000.0,Ukraine,Europe & Central Asia
+603,Ukraine,2006,44.2,7,0.151,2530.0,4.0,22.0,46.4M,0.9,12.7,46400000.0,Ukraine,Europe & Central Asia
+604,Uruguay,2003,0.0,0,0.0,9460.0,,,3.32M,,,3320000.0,Uruguay,Latin America & Caribbean
+605,Uruguay,2004,0.0,0,0.0,10200.0,,,3.32M,,,3320000.0,Uruguay,Latin America & Caribbean
+606,Uruguay,2005,0.0,0,0.0,10600.0,1.9,35.0,3.33M,3.7,17.0,3330000.0,Uruguay,Latin America & Caribbean
+607,Uruguay,2006,0.0,0,0.0,11200.0,1.9,35.4,3.33M,3.0,14.7,3330000.0,Uruguay,Latin America & Caribbean
+608,United States,2003,64.4,277,0.945,51500.0,1.8,30.1,292M,1.2,1.7,292000000.0,United States,North America
+609,United States,2004,64.8,341,1.15,52800.0,1.8,30.8,295M,1.2,1.5,295000000.0,United States,North America
+610,United States,2005,65.1,371,1.24,53800.0,1.7,31.2,298M,1.2,1.7,298000000.0,United States,North America
+611,United States,2006,65.3,415,1.38,54300.0,1.7,30.4,301M,1.2,1.5,301000000.0,United States,North America
+612,Uzbekistan,2003,0.0,0,0.0,1480.0,,,26.1M,,,26100000.0,Uzbekistan,Europe & Central Asia
+613,Uzbekistan,2004,0.0,0,0.0,1560.0,,,26.4M,,,26400000.0,Uzbekistan,Europe & Central Asia
+614,Uzbekistan,2005,0.0,0,0.0,1660.0,,,26.8M,,,26800000.0,Uzbekistan,Europe & Central Asia
+615,Uzbekistan,2006,0.0,0,0.0,1790.0,,,27.2M,,,27200000.0,Uzbekistan,Europe & Central Asia
+616,Vietnam,2003,0.0,0,0.0,1190.0,2.9,28.8,83.1M,59.3,84.2,83100000.0,Vietnam,East Asia & Pacific
+617,Vietnam,2004,0.0,0,0.0,1270.0,,,83.8M,,,83800000.0,Vietnam,East Asia & Pacific
+618,Vietnam,2005,0.0,0,0.0,1350.0,2.9,27.7,84.6M,50.6,79.9,84600000.0,Vietnam,East Asia & Pacific
+619,Vietnam,2006,0.0,0,0.0,1430.0,,,85.4M,,,85400000.0,Vietnam,East Asia & Pacific
+620,Vanuatu,2003,0.0,0,0.0,2550.0,,,204k,,,204000.0,Vanuatu,East Asia & Pacific
+621,Vanuatu,2004,0.0,0,0.0,2620.0,,,209k,,,209000.0,Vanuatu,East Asia & Pacific
+622,Vanuatu,2005,0.0,0,0.0,2780.0,,,214k,,,214000.0,Vanuatu,East Asia & Pacific
+623,Vanuatu,2006,0.0,0,0.0,2790.0,,,219k,,,219000.0,Vanuatu,East Asia & Pacific
+624,Samoa,2003,0.0,0,0.0,3890.0,,,179k,,,179000.0,Samoa,East Asia & Pacific
+625,Samoa,2004,0.0,0,0.0,4030.0,,,180k,,,180000.0,Samoa,East Asia & Pacific
+626,Samoa,2005,0.0,0,0.0,4080.0,,,181k,,,181000.0,Samoa,East Asia & Pacific
+627,Samoa,2006,0.0,0,0.0,4310.0,,,182k,,,182000.0,Samoa,East Asia & Pacific
+628,Yemen,2003,0.0,0,0.0,2470.0,,,19.5M,,,19500000.0,Yemen,Middle East & North Africa
+629,Yemen,2004,0.0,0,0.0,2540.0,3.3,28.6,20.1M,37.7,75.9,20100000.0,Yemen,Middle East & North Africa
+630,Yemen,2005,0.0,0,0.0,2540.0,,,20.7M,,,20700000.0,Yemen,Middle East & North Africa
+631,Yemen,2006,0.0,0,0.0,2550.0,,,21.3M,,,21300000.0,Yemen,Middle East & North Africa
+632,South Africa,2003,55.5,2,0.045,5370.0,,,47.3M,,,47300000.0,South Africa,Sub-Saharan Africa
+633,South Africa,2004,62.3,3,0.0677,5590.0,1.0,54.2,47.9M,48.4,67.7,47900000.0,South Africa,Sub-Saharan Africa
+634,South Africa,2005,63.3,3,0.0679,5830.0,,,48.5M,,,48500000.0,South Africa,Sub-Saharan Africa
+635,South Africa,2006,64.3,3,0.0682,6060.0,,,49.1M,,,49100000.0,South Africa,Sub-Saharan Africa
+636,Zambia,2003,0.0,0,0.0,879.0,1.3,42.7,11.6M,76.5,89.3,11600000.0,Zambia,Sub-Saharan Africa
+637,Zambia,2004,0.0,0,0.0,918.0,,,11.9M,,,11900000.0,Zambia,Sub-Saharan Africa
+638,Zambia,2005,0.0,0,0.0,965.0,1.3,43.2,12.2M,78.9,90.4,12200000.0,Zambia,Sub-Saharan Africa
+639,Zambia,2006,0.0,0,0.0,1020.0,,,12.5M,,,12500000.0,Zambia,Sub-Saharan Africa
+640,Zimbabwe,2003,0.0,0,0.0,1210.0,,,12M,,,12000000.0,Zimbabwe,Sub-Saharan Africa
+641,Zimbabwe,2004,0.0,0,0.0,1140.0,,,12.1M,,,12100000.0,Zimbabwe,Sub-Saharan Africa
+642,Zimbabwe,2005,0.0,0,0.0,1090.0,,,12.2M,,,12200000.0,Zimbabwe,Sub-Saharan Africa
+643,Zimbabwe,2006,0.0,0,0.0,1040.0,,,12.3M,,,12300000.0,Zimbabwe,Sub-Saharan Africa
